@@ -39,8 +39,8 @@ A Directory Management System for managing local businesses, built using **.NET 
 ### Steps:
 1. **Clone the repository**:
    ```bash
-   git clone <repository-link>
-   cd <repository-name>
+   git clone https://github.com/KeshavRajSoni/directoryManagment.git
+   cd directoryManagment
 
 2. **Run the backend**:
 
