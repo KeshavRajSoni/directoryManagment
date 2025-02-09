@@ -1,0 +1,15 @@
+# Node.js
+node_modules/
+.env
+dist/
+.next/
+
+# .NET Core
+bin/
+obj/
+*.user
+*.vs
+
+# General
+.DS_Store
+.vscode/
